@@ -4,6 +4,7 @@ import './App.css';
 
 export const App = () => {
 
+   // JS code:
 	// return createElement(
 	// 	'div',
 	// 	{ className: 'App' },
@@ -11,20 +12,20 @@ export const App = () => {
    //    { className: 'App-header'}),
 
    //    createElement('img',
-   //     { crs: 'logo'}
-   //     { className: 'App-logo'},
-   //      {alt: 'logo'}),
+   //     { crs: 'logo,
+   //       className: 'App-logo',
+   //       alt: 'logo'}),
 
    //    createElement('p', nul,
-   //    'Edit <code>src/App.js</code> and save to reload' ),
-   //      createElement('div', null, "hello world"),
-   //
+   //    "Edit <code>src/App.js</code> and save to reload"),
+
    //   createElement('a',
-   //  { className: 'App-link'},
-   //  { href: 'https://reactjs.org" },
-   //  { target: "_blank" },
-   //  { rel: "noopener noreferrer" },
-   //   "Learn React"),
+   //   { className: 'App-link',
+   //     href: "https://reactjs.org",
+   //     target: "_blank",
+   //     rel: "noopener noreferrer"
+   //       }, "Learn React"),
+
    //  createElement('p', {new Date().getFullYear()}, ),
    // )
 
